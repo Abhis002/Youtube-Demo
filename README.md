@@ -4,18 +4,11 @@ A full-stack YouTube Clone built with the MERN stack (MongoDB, Express.js, React
 
 ---
 
-## 🌐 Live Demo
-
-> _Coming Soon_ — Deploying with [Vercel](https://vercel.com/) and [Render](https://render.com/) or [Railway](https://railway.app/)!
-
----
-
 ## 🚀 Features
 
 - ✅ **Video Uploading** using `multer`
 - ✅ **Video Playback** via HTML5 `<video>` tag
 - ✅ **User Authentication** (JWT, bcrypt)
-- ✅ **Like / Dislike System**
 - ✅ **Comment System**
 - ✅ **Channels & Metadata**
 - ✅ **Sample Videos and Suggested Sidebar**
